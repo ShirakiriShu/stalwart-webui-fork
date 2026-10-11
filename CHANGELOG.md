@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file. This projec
 
 ## [Unreleased]
 
+## [1.3.3] - 2026-10-11
+
 ### Added
 - Simplified Chinese (zh-CN) interface translations.
 
